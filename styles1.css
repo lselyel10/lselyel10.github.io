@@ -1,0 +1,11 @@
+body {
+    background-color: white;
+}
+h1 {
+    color: blue;
+    text-align: center;
+    background-color: lavender;
+}
+.card {
+    margin: 15px;
+}
